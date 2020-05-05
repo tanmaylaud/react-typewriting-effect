@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-typewriter-effect/static/css/main.a1fec67b.chunk.css",
-    "main.js": "/react-typewriter-effect/static/js/main.6878c7e7.chunk.js",
-    "main.js.map": "/react-typewriter-effect/static/js/main.6878c7e7.chunk.js.map",
-    "runtime-main.js": "/react-typewriter-effect/static/js/runtime-main.e8ef422a.js",
-    "runtime-main.js.map": "/react-typewriter-effect/static/js/runtime-main.e8ef422a.js.map",
-    "static/js/2.c499bd85.chunk.js": "/react-typewriter-effect/static/js/2.c499bd85.chunk.js",
-    "static/js/2.c499bd85.chunk.js.map": "/react-typewriter-effect/static/js/2.c499bd85.chunk.js.map",
-    "index.html": "/react-typewriter-effect/index.html",
-    "precache-manifest.5590dffe7e895b42e204d5834e52e43f.js": "/react-typewriter-effect/precache-manifest.5590dffe7e895b42e204d5834e52e43f.js",
-    "service-worker.js": "/react-typewriter-effect/service-worker.js",
-    "static/css/main.a1fec67b.chunk.css.map": "/react-typewriter-effect/static/css/main.a1fec67b.chunk.css.map",
-    "static/js/2.c499bd85.chunk.js.LICENSE.txt": "/react-typewriter-effect/static/js/2.c499bd85.chunk.js.LICENSE.txt"
+    "main.css": "/react-typewriting-effect/static/css/main.a1fec67b.chunk.css",
+    "main.js": "/react-typewriting-effect/static/js/main.e2dd7089.chunk.js",
+    "main.js.map": "/react-typewriting-effect/static/js/main.e2dd7089.chunk.js.map",
+    "runtime-main.js": "/react-typewriting-effect/static/js/runtime-main.bbf5b25e.js",
+    "runtime-main.js.map": "/react-typewriting-effect/static/js/runtime-main.bbf5b25e.js.map",
+    "static/js/2.1d5d1e98.chunk.js": "/react-typewriting-effect/static/js/2.1d5d1e98.chunk.js",
+    "static/js/2.1d5d1e98.chunk.js.map": "/react-typewriting-effect/static/js/2.1d5d1e98.chunk.js.map",
+    "index.html": "/react-typewriting-effect/index.html",
+    "precache-manifest.31c1a2d088b7eccd53c722bcaa6ec9bb.js": "/react-typewriting-effect/precache-manifest.31c1a2d088b7eccd53c722bcaa6ec9bb.js",
+    "service-worker.js": "/react-typewriting-effect/service-worker.js",
+    "static/css/main.a1fec67b.chunk.css.map": "/react-typewriting-effect/static/css/main.a1fec67b.chunk.css.map",
+    "static/js/2.1d5d1e98.chunk.js.LICENSE.txt": "/react-typewriting-effect/static/js/2.1d5d1e98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8ef422a.js",
-    "static/js/2.c499bd85.chunk.js",
+    "static/js/runtime-main.bbf5b25e.js",
+    "static/js/2.1d5d1e98.chunk.js",
     "static/css/main.a1fec67b.chunk.css",
-    "static/js/main.6878c7e7.chunk.js"
+    "static/js/main.e2dd7089.chunk.js"
   ]
 }
