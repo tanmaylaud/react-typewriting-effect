@@ -1,7 +1,8 @@
 {
   "name": "react-typewriter-effect",
   "version": "1.0.0",
-  "description": "Made with create-react-library",
+  "homepage": "https://tanmaylaud.github.io/react-typewriter-effect/",
+  "description": "The simplest typewriter effect component in React. ( Requires react >=16.8.0 )",
   "author": "tanmaylaud",
   "license": "MIT",
   "repository": "tanmaylaud/react-typewriter-effect",
@@ -24,7 +25,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.8.0"
   },
   "devDependencies": {
     "@types/jest": "^25.1.4",

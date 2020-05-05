@@ -13,16 +13,35 @@ npm install --save react-typewriter-effect
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+import React from 'react'
 
-import MyComponent from 'react-typewriter-effect'
+import { Typewriter } from 'react-typewriter-effect'
 import 'react-typewriter-effect/dist/index.css'
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+const App = () => {
+  return <Typewriter string='This is an example of typewriting 😄' speed={80} />
 }
+
+export default App
+```
+
+```tsx
+import React from 'react'
+
+import { Typewriter } from 'react-typewriter-effect'
+import 'react-typewriter-effect/dist/index.css'
+
+const App = () => {
+  return (
+    <Typewriter
+      string='In this example, the cursor will stop blinking after ther string is completely rendered'
+      speed={80}
+      stopBlinkinOnComplete
+    />
+  )
+}
+
+export default App
 ```
 
 ## License
