@@ -1,6 +1,6 @@
 {
   "name": "react-typewriting-effect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://tanmaylaud.github.io/react-typewriting-effect/",
   "description": "The simplest typewriter effect component in React. ( Requires react >=16.8.0 )",
   "author": "tanmaylaud",
@@ -10,7 +10,9 @@
     "typewriter",
     "effect",
     "typing",
-    "react-component"
+    "react-component",
+    "animation",
+    "type-effect"
   ],
   "repository": "tanmaylaud/react-typewriting-effect",
   "main": "dist/index.js",

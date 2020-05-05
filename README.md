@@ -1,13 +1,13 @@
-# react-typewriter-effect
+# react-typewriting-effect
 
 > The simplest typewriter effect component in React. ( Requires react >=16.8.0 )
 
-[![NPM](https://img.shields.io/npm/v/react-typewriter-effect.svg)](https://www.npmjs.com/package/react-typewriter-effect) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-typewriting-effect.svg)](https://www.npmjs.com/package/react-typewriting-effect) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-typewriter-effect
+npm install --save react-typewriting-effect
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save react-typewriter-effect
 ```tsx
 import React from 'react'
 
-import { Typewriter } from 'react-typewriter-effect'
-import 'react-typewriter-effect/dist/index.css'
+import { Typewriter } from 'react-typewriting-effect'
+import 'react-typewriting-effect/dist/index.css'
 
 const App = () => {
   return <Typewriter string='This is an example of typewriting 😄' speed={80} />
@@ -28,8 +28,8 @@ export default App
 ```tsx
 import React from 'react'
 
-import { Typewriter } from 'react-typewriter-effect'
-import 'react-typewriter-effect/dist/index.css'
+import { Typewriter } from 'react-typewriting-effect'
+import 'react-typewriting-effect/dist/index.css'
 
 const App = () => {
   return (
