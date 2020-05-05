@@ -5,6 +5,13 @@
   "description": "The simplest typewriter effect component in React. ( Requires react >=16.8.0 )",
   "author": "tanmaylaud",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "typewriter",
+    "effect",
+    "typing",
+    "react-component"
+  ],
   "repository": "tanmaylaud/react-typewriter-effect",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
