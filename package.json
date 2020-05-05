@@ -1,7 +1,7 @@
 {
-  "name": "react-typewriter-effect",
+  "name": "react-typewriting-effect",
   "version": "1.0.0",
-  "homepage": "https://tanmaylaud.github.io/react-typewriter-effect/",
+  "homepage": "https://tanmaylaud.github.io/react-typewriting-effect/",
   "description": "The simplest typewriter effect component in React. ( Requires react >=16.8.0 )",
   "author": "tanmaylaud",
   "license": "MIT",
