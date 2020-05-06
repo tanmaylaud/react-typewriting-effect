@@ -44,6 +44,16 @@ const App = () => {
 export default App
 ```
 
+## Options
+
+| Name                  | Type            | Default value | Description                                         |
+| --------------------- | --------------- | ------------- | --------------------------------------------------- |
+| string                | String          | ''            | String to type out                                  |
+| speed                 | number          | 100           | The delay between each key when typing.             |
+| onComplete            | Lambda/Function | () => null    | Function to execute when string is completely typed |
+| stopBlinkinOnComplete | Boolean         | false         | Whether to blink cursor after string is typed       |
+| className             | String          | ''            | Field to set classes for the HTML Element           |
+
 ## License
 
 MIT © [tanmaylaud](https://github.com/tanmaylaud)
