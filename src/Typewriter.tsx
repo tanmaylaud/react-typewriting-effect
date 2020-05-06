@@ -4,7 +4,7 @@ export interface TypewriterProps {
   string: string
   speed?: number
   stopBlinkinOnComplete?: any
-  className: string
+  className?: string
   onComplete: () => null
 }
 
