@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-typewriting-effect/static/css/main.0fd6cd76.chunk.css",
-    "main.js": "/react-typewriting-effect/static/js/main.b505d1d9.chunk.js",
-    "main.js.map": "/react-typewriting-effect/static/js/main.b505d1d9.chunk.js.map",
+    "main.css": "/react-typewriting-effect/static/css/main.5a25e261.chunk.css",
+    "main.js": "/react-typewriting-effect/static/js/main.d1480188.chunk.js",
+    "main.js.map": "/react-typewriting-effect/static/js/main.d1480188.chunk.js.map",
     "runtime-main.js": "/react-typewriting-effect/static/js/runtime-main.5788f6e2.js",
     "runtime-main.js.map": "/react-typewriting-effect/static/js/runtime-main.5788f6e2.js.map",
-    "static/js/2.44eec8dd.chunk.js": "/react-typewriting-effect/static/js/2.44eec8dd.chunk.js",
-    "static/js/2.44eec8dd.chunk.js.map": "/react-typewriting-effect/static/js/2.44eec8dd.chunk.js.map",
+    "static/js/2.a70f8ebc.chunk.js": "/react-typewriting-effect/static/js/2.a70f8ebc.chunk.js",
+    "static/js/2.a70f8ebc.chunk.js.map": "/react-typewriting-effect/static/js/2.a70f8ebc.chunk.js.map",
     "index.html": "/react-typewriting-effect/index.html",
-    "precache-manifest.48570e17f67636c6e3f938141b5183ca.js": "/react-typewriting-effect/precache-manifest.48570e17f67636c6e3f938141b5183ca.js",
+    "precache-manifest.31a2adaac4d4dd9754151d53e3442f81.js": "/react-typewriting-effect/precache-manifest.31a2adaac4d4dd9754151d53e3442f81.js",
     "service-worker.js": "/react-typewriting-effect/service-worker.js",
-    "static/css/main.0fd6cd76.chunk.css.map": "/react-typewriting-effect/static/css/main.0fd6cd76.chunk.css.map",
-    "static/js/2.44eec8dd.chunk.js.LICENSE.txt": "/react-typewriting-effect/static/js/2.44eec8dd.chunk.js.LICENSE.txt"
+    "static/css/main.5a25e261.chunk.css.map": "/react-typewriting-effect/static/css/main.5a25e261.chunk.css.map",
+    "static/js/2.a70f8ebc.chunk.js.LICENSE.txt": "/react-typewriting-effect/static/js/2.a70f8ebc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5788f6e2.js",
-    "static/js/2.44eec8dd.chunk.js",
-    "static/css/main.0fd6cd76.chunk.css",
-    "static/js/main.b505d1d9.chunk.js"
+    "static/js/2.a70f8ebc.chunk.js",
+    "static/css/main.5a25e261.chunk.css",
+    "static/js/main.d1480188.chunk.js"
   ]
 }

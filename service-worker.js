@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-typewriting-effect/precache-manifest.48570e17f67636c6e3f938141b5183ca.js"
+  "/react-typewriting-effect/precache-manifest.31a2adaac4d4dd9754151d53e3442f81.js"
 );
 
 self.addEventListener('message', (event) => {
