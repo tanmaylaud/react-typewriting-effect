@@ -6,6 +6,11 @@
 
 ![](preview.gif)
 
+## Updates in v1.0.4
+
+- cursor option to add custom cursor text
+- cursor css can be customised using cursorClassName
+
 ## Install
 
 ```bash
@@ -21,7 +26,7 @@ import { Typewriter } from 'react-typewriting-effect'
 import 'react-typewriting-effect/dist/index.css'
 
 const App = () => {
-  return <Typewriter string='This is an example of typewriting 😄' speed={80} />
+  return <Typewriter string='This is an example of typewriting 😄' delay={80} />
 }
 
 export default App
@@ -37,7 +42,7 @@ const App = () => {
   return (
     <Typewriter
       string='In this example, the cursor will stop blinking after ther string is completely rendered'
-      speed={80}
+      delay={80}
       stopBlinkinOnComplete
     />
   )
@@ -46,15 +51,38 @@ const App = () => {
 export default App
 ```
 
+```tsx
+import React from 'react'
+
+import { Typewriter } from 'react-typewriting-effect'
+import 'react-typewriting-effect/dist/index.css'
+
+const App = () => {
+  return (
+    <Typewriter
+      string='In this example, the cursor will be _ and speed will be 50'
+      delay={50}
+      cursor='_'
+    />
+  )
+}
+
+export default App
+```
+
+You can view demo [here](https://tanmaylaud.github.io/react-typewriting-effect/)
+
 ## Options
 
-| Name                  | Type            | Default value | Description                                         |
-| --------------------- | --------------- | ------------- | --------------------------------------------------- |
-| string                | String          | ''            | String to type out                                  |
-| speed                 | number          | 100           | The delay between each key when typing.             |
-| onComplete            | Lambda/Function | () => null    | Function to execute when string is completely typed |
-| stopBlinkinOnComplete | Boolean         | false         | Whether to blink cursor after string is typed       |
-| className             | String          | ''            | Field to set classes for the HTML Element           |
+| Name                    | Type            | Default value | Description                                         |
+| ----------------------- | --------------- | ------------- | --------------------------------------------------- |
+| string                  | String          |               | String to type out                                  |
+| delay (speed in v1.0.3) | number          | 100           | The delay between each key when typing.             |
+| onComplete              | Lambda/Function | () => {}      | Function to execute when string is completely typed |
+| stopBlinkinOnComplete   | Boolean         | false         | Whether to blink cursor after string is typed       |
+| className               | String          | ''            | Field to set classes for the HTML Element           |
+| cursor                  | String          | '             | '                                                   | Cursor string |
+| cursorClassName         | String          | undefined     | Field to set classes for the cursor                 |
 
 ## License
 

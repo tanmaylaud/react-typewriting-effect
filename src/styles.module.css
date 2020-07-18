@@ -1,5 +1,5 @@
 /* add css module styles here */
-.blinking-cursor {
+.blinkingCursor {
   font-weight: 100;
   color: #2e3d48;
   -webkit-animation: 1s blink step-end infinite;

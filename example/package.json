@@ -1,7 +1,7 @@
 {
   "name": "react-typewriting-effect-example",
   "homepage": "https://tanmaylaud.github.io/react-typewriting-effect",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "file:../node_modules/react",

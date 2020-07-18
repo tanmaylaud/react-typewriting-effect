@@ -1,6 +1,6 @@
 {
   "name": "react-typewriting-effect",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "homepage": "https://tanmaylaud.github.io/react-typewriting-effect/",
   "description": "The simplest typewriter effect component in React. ( Requires react >=16.8.0 )",
   "author": "tanmaylaud",
@@ -22,7 +22,7 @@
     "node": ">=10"
   },
   "scripts": {
-    "build": "microbundle-crl --no-compress --format modern,cjs",
+    "build": "microbundle-crl --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
     "prepublish": "run-s build",
     "test": "run-s test:unit test:lint test:build",
