@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-typewriting-effect/static/css/main.a1fec67b.chunk.css",
-    "main.js": "/react-typewriting-effect/static/js/main.e2dd7089.chunk.js",
-    "main.js.map": "/react-typewriting-effect/static/js/main.e2dd7089.chunk.js.map",
-    "runtime-main.js": "/react-typewriting-effect/static/js/runtime-main.bbf5b25e.js",
-    "runtime-main.js.map": "/react-typewriting-effect/static/js/runtime-main.bbf5b25e.js.map",
-    "static/js/2.1d5d1e98.chunk.js": "/react-typewriting-effect/static/js/2.1d5d1e98.chunk.js",
-    "static/js/2.1d5d1e98.chunk.js.map": "/react-typewriting-effect/static/js/2.1d5d1e98.chunk.js.map",
+    "main.css": "/react-typewriting-effect/static/css/main.0fd6cd76.chunk.css",
+    "main.js": "/react-typewriting-effect/static/js/main.b505d1d9.chunk.js",
+    "main.js.map": "/react-typewriting-effect/static/js/main.b505d1d9.chunk.js.map",
+    "runtime-main.js": "/react-typewriting-effect/static/js/runtime-main.5788f6e2.js",
+    "runtime-main.js.map": "/react-typewriting-effect/static/js/runtime-main.5788f6e2.js.map",
+    "static/js/2.44eec8dd.chunk.js": "/react-typewriting-effect/static/js/2.44eec8dd.chunk.js",
+    "static/js/2.44eec8dd.chunk.js.map": "/react-typewriting-effect/static/js/2.44eec8dd.chunk.js.map",
     "index.html": "/react-typewriting-effect/index.html",
-    "precache-manifest.31c1a2d088b7eccd53c722bcaa6ec9bb.js": "/react-typewriting-effect/precache-manifest.31c1a2d088b7eccd53c722bcaa6ec9bb.js",
+    "precache-manifest.48570e17f67636c6e3f938141b5183ca.js": "/react-typewriting-effect/precache-manifest.48570e17f67636c6e3f938141b5183ca.js",
     "service-worker.js": "/react-typewriting-effect/service-worker.js",
-    "static/css/main.a1fec67b.chunk.css.map": "/react-typewriting-effect/static/css/main.a1fec67b.chunk.css.map",
-    "static/js/2.1d5d1e98.chunk.js.LICENSE.txt": "/react-typewriting-effect/static/js/2.1d5d1e98.chunk.js.LICENSE.txt"
+    "static/css/main.0fd6cd76.chunk.css.map": "/react-typewriting-effect/static/css/main.0fd6cd76.chunk.css.map",
+    "static/js/2.44eec8dd.chunk.js.LICENSE.txt": "/react-typewriting-effect/static/js/2.44eec8dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbf5b25e.js",
-    "static/js/2.1d5d1e98.chunk.js",
-    "static/css/main.a1fec67b.chunk.css",
-    "static/js/main.e2dd7089.chunk.js"
+    "static/js/runtime-main.5788f6e2.js",
+    "static/js/2.44eec8dd.chunk.js",
+    "static/css/main.0fd6cd76.chunk.css",
+    "static/js/main.b505d1d9.chunk.js"
   ]
 }
